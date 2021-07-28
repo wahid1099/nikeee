@@ -1,0 +1,25 @@
+/*
+common csss styles
+*/
+h1 {
+  font-size: 70px !important;
+}
+h2 {
+  font-size: 48px !important;
+  color: #363958;
+}
+.header {
+  background-color: #fff9f4;
+}
+.cardimg {
+  background-color: #f1f1f1;
+}
+.cards {
+  border-radius: 13px !important;
+}
+.btmcard {
+  height: 135px;
+  width: 489px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
